@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pokaahaha
-- 👀 I am interested in Python programming. I am also interested in Web development
-- 🌱 I’m currently learning Python
+- 👀 I am interested in JS programming. I am also interested in Web development
+- 🌱 I’m currently learning JS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
